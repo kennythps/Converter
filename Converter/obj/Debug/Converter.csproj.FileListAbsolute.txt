@@ -1,0 +1,9 @@
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\bin\Debug\Converter.exe.config
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\bin\Debug\Converter.exe
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\bin\Debug\Converter.pdb
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.Form1.resources
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.exe
+c:\users\nikolaevich\documents\visual studio 2013\Projects1\Converter\Converter\obj\Debug\Converter.pdb
